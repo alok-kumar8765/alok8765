@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alok8765
+- 👋 Hi, I’m @alok-kumar
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
